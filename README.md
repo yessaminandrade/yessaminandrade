@@ -1,9 +1,9 @@
+<div align="center">
+
 # Hi, I'm Yessamin!
 ![logo](assets/Banner.png)
 
-<div align="center">
-
-# A junior Java Full Stack developer and Data Analyst
+## A junior Java Full Stack developer and Data Analyst
 
 I'm curious, and nothing fascinates me more than learning new things, especially about technology and society.
 I'm looking to join a team where I can continue learning, applying my knowledge, and collaborating to achieve goals, mainly in front-end and data analysis.

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yessamin!🐭
+# 🐭 Hi, I'm Yessamin!
 ![logo](assets/gitHubBanner.png)
 
 ## A junior Java Full Stack Developer and Data Analyst.
@@ -10,7 +10,7 @@ I'm looking to join a team where I can continue learning, applying my knowledge,
 </div>
 
 ---
-## Technical Skills
+## 🐙 Technical Skills
 
 ### 💻 Languages & Frameworks:
 

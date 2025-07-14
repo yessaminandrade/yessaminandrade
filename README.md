@@ -10,10 +10,9 @@ I'm looking to join a team where I can continue learning, applying my knowledge,
 </div>
 
 ---
+## Technical Skills
 
-## Technical Skills:
-
-### 💻 Languages & Frameworks
+### 💻 Languages & Frameworks:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -26,14 +25,14 @@ I'm looking to join a team where I can continue learning, applying my knowledge,
 </p>
 
 
-### 🗄️ Databases 
+### 🗄️ Databases:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -51,8 +50,7 @@ I'm looking to join a team where I can continue learning, applying my knowledge,
 </div>
 
 ---
-
-### 🤝 Let's connect!
+## 🤝 Let's connect!
 
 <p align="center">
 

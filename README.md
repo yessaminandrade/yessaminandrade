@@ -1,6 +1,12 @@
 # Hi, I'm Yessamin!
 ![logo](assets/Banner.png)
 
+<div align="center">
+#  A junior Java Full Stack developer and Data Analyst.
+
+I'm curious, and nothing fascinates me more than learning new things, especially about technology and society.
+I'm looking to join a team where I can continue learning, applying my knowledge, and collaborating to achieve goals, mainly in front-end and data analysis.
+</div>
 
 ---
 
@@ -14,10 +20,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
 
 
-### 🗄️ Databases & Analysis Tools
+### 🗄️ Databases 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>

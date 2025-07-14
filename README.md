@@ -69,9 +69,11 @@ I'm looking to join a team where I can continue learning, applying my knowledge,
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" alt="Funny GIF" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" alt="Funny GIF" />
+</p>
 
 
 

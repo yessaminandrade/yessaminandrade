@@ -12,6 +12,7 @@ I'm looking to join a team where I can continue learning, applying my knowledge,
 ---
 
 ## Technical Skills:
+
 ### 💻 Languages & Frameworks
 
 <p align="left">

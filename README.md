@@ -1,8 +1,10 @@
 # Hi, I'm Yessamin!
-![logo](assets/Banner.png).
+![logo](assets/Banner.png)
 
 
-## Technical Skills
+---
+
+## Technical Skills:
 ### 💻 Languages & Frameworks
 
 <p align="left">
@@ -14,7 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
----
 
 ### 🗄️ Databases & Analysis Tools
 
@@ -22,7 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
----
 
 ### 🛠️ Tools & Platforms
 
@@ -32,6 +32,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
+
+---
+### 📊 Stats
+
+<div align="center">
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=6" />
+</div>
+
 
 
 <!--

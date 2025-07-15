@@ -7,6 +7,10 @@
 
 I'm very curious and nothing fascinates me more than learning new things, especially about technology and society.
 I'm looking to join a team where I can continue learning, applying my knowledge, and collaborating to achieve goals, mainly in front-end and data analysis.
+
+My [*Resume*](https://flowcv.com/resume/ccsr0s21kpbv)
+
+
 </div>
 
 ---
